@@ -1,7 +1,7 @@
 <img src="https://www.itvietacademy.com/wp-content/uploads/2020/02/data-science-icon-animation-banner-clockwise.gif" width="1500" height="300" alt="Banner Image" />
 
 <h1 align="center">Hi 👋, I'm Suraj Senapati</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst </h3>
 
 - 🔭 I’m currently working on **Banking Project**
 - 🌱 I’m currently learning **Python**
