@@ -1,4 +1,4 @@
-<img src="https://qph.cf2.quoracdn.net/main-qimg-e539b2f03c6ccb67ec512936cf2e0e17-pjlq" width="1600" height="350" alt="Banner Image" />
+<img src="https://www.itvietacademy.com/wp-content/uploads/2020/02/data-science-icon-animation-banner-clockwise.gif" width="1500" height="400" alt="Banner Image" />
 
 <h1 align="center">Hi 👋, I'm Suraj Senapati</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
