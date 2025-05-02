@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/2789fbd1-fc51-4d6a-bb0e-53a79465ca72" width="1500" height="500" alt="Banner Image" />
+<img src="https://github.com/user-attachments/assets/a0c6592a-ff25-4c40-b263-691b6ddec2d0" width="1700" height="450" alt="Banner Image" />
 
 <h1 align="center">Hi 👋, I'm Suraj Senapati</h1>
 <h3 align="center">A passionate Data Analyst </h3>
